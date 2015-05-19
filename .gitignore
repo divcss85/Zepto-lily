@@ -1,0 +1,4 @@
+﻿# OS or Editor folders
+node_modules
+.idea
+dist
