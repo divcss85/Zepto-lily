@@ -1,0 +1,33 @@
+{
+  "name": "Zepto-lily",
+  "version": "0.0.1",
+  "description": "study zepto",
+  "main": "  ",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.12.31",
+    "karma-chrome-launcher": "^0.1.12",
+    "karma-firefox-launcher": "^0.1.6",
+    "karma-ie-launcher": "^0.1.5",
+    "karma-jasmine": "^0.3.5",
+    "karma-opera-launcher": "^0.1.0"
+  },
+  "scripts": {
+    "test": "karma start zepto.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/divcss85/Zepto-lily.git"
+  },
+  "author": "Lily",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divcss85/Zepto-lily/issues"
+  },
+  "homepage": "https://github.com/divcss85/Zepto-lily"
+}
